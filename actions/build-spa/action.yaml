@@ -9,7 +9,7 @@ inputs:
     required: true
   aws-region:
     required: true
-  github-token:
+  github-packages-token:
     required: true
 runs:
   using: composite
